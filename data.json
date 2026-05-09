@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-05-09T08:09:07.691Z",
+  "event": "Mialy RAKOTOMAMONJY",
+  "site_verification": "https://ticket-verify.vercel.app/",
+  "total": 4,
+  "tickets": [
+    {
+      "token": "TKT-5KDH-79P6-MCQR",
+      "numero": "0001",
+      "label": "0001",
+      "qr_url": "https://ticket-verify.vercel.app?t=TKT-5KDH-79P6-MCQR",
+      "statut": "valide",
+      "event": "Mialy RAKOTOMAMONJY",
+      "date": "2026-12-07",
+      "heure": "14:30",
+      "lieu": "Fjkm Iavoloha Filadelfia Fandresena",
+      "categorie": "Standard",
+      "prix": 3001,
+      "organisateur": "STK - AFI",
+      "notes": "\"Fankalazàna ny faha 10 taonan'ny STK-AFI\"",
+      "emis_le": "2026-05-09T08:09:06.211Z"
+    },
+    {
+      "token": "TKT-BE56-FKLZ-JTHP",
+      "numero": "0002",
+      "label": "0002",
+      "qr_url": "https://ticket-verify.vercel.app?t=TKT-BE56-FKLZ-JTHP",
+      "statut": "valide",
+      "event": "Mialy RAKOTOMAMONJY",
+      "date": "2026-12-07",
+      "heure": "14:30",
+      "lieu": "Fjkm Iavoloha Filadelfia Fandresena",
+      "categorie": "Standard",
+      "prix": 3001,
+      "organisateur": "STK - AFI",
+      "notes": "\"Fankalazàna ny faha 10 taonan'ny STK-AFI\"",
+      "emis_le": "2026-05-09T08:09:06.211Z"
+    },
+    {
+      "token": "TKT-XR69-E6RS-X3YP",
+      "numero": "0003",
+      "label": "0003",
+      "qr_url": "https://ticket-verify.vercel.app?t=TKT-XR69-E6RS-X3YP",
+      "statut": "valide",
+      "event": "Mialy RAKOTOMAMONJY",
+      "date": "2026-12-07",
+      "heure": "14:30",
+      "lieu": "Fjkm Iavoloha Filadelfia Fandresena",
+      "categorie": "Standard",
+      "prix": 3001,
+      "organisateur": "STK - AFI",
+      "notes": "\"Fankalazàna ny faha 10 taonan'ny STK-AFI\"",
+      "emis_le": "2026-05-09T08:09:06.211Z"
+    },
+    {
+      "token": "TKT-X76Q-TQYT-5667",
+      "numero": "0004",
+      "label": "0004",
+      "qr_url": "https://ticket-verify.vercel.app?t=TKT-X76Q-TQYT-5667",
+      "statut": "valide",
+      "event": "Mialy RAKOTOMAMONJY",
+      "date": "2026-12-07",
+      "heure": "14:30",
+      "lieu": "Fjkm Iavoloha Filadelfia Fandresena",
+      "categorie": "Standard",
+      "prix": 3001,
+      "organisateur": "STK - AFI",
+      "notes": "\"Fankalazàna ny faha 10 taonan'ny STK-AFI\"",
+      "emis_le": "2026-05-09T08:09:06.211Z"
+    }
+  ]
+}
